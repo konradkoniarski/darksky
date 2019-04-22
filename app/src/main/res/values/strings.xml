@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Darksky weather</string>
+
+    <string name="retry">Retry</string>
+    <string name="post_error">An error occurred while loading the weather</string>
+    <string name="free_version">Free Version</string>
+    <string name="paid_version">Paid version</string>
+    <string name="new_york">New York</string>
+    <string name="barcelona">Barcelona</string>
+</resources>
